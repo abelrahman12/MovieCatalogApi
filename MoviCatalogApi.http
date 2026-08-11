@@ -1,0 +1,6 @@
+@MoviCatalogApi_HostAddress = http://localhost:5132
+
+GET {{MoviCatalogApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
